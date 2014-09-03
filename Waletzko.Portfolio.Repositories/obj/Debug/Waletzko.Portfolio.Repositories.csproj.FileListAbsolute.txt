@@ -1,0 +1,10 @@
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.Repositories\bin\Debug\Waletzko.Portfolio.Repositories.dll
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.Repositories\bin\Debug\Waletzko.Portfolio.Repositories.pdb
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.Repositories\obj\Debug\Waletzko.Portfolio.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.Repositories\obj\Debug\Waletzko.Portfolio.Repositories.dll
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.Repositories\obj\Debug\Waletzko.Portfolio.Repositories.pdb
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.Repositories\bin\Debug\Waletzko.Portfolio.Interfaces.dll
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.Repositories\bin\Debug\Waletzko.Portfolio.ServiceModel.dll
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.Repositories\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.Repositories\bin\Debug\Waletzko.Portfolio.Interfaces.pdb
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.Repositories\bin\Debug\Waletzko.Portfolio.ServiceModel.pdb

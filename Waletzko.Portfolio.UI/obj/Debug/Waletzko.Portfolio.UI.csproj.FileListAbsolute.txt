@@ -1,0 +1,6 @@
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.UI\bin\Waletzko.Portfolio.UI.dll.config
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.UI\bin\Waletzko.Portfolio.UI.dll
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.UI\bin\Waletzko.Portfolio.UI.pdb
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.UI\obj\Debug\Waletzko.Portfolio.UI.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.UI\obj\Debug\Waletzko.Portfolio.UI.dll
+C:\Users\Jake\Documents\GitHub\Waletzko.Portfolio\Waletzko.Portfolio.UI\obj\Debug\Waletzko.Portfolio.UI.pdb
